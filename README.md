@@ -20,8 +20,12 @@ Pixel values normalized to [0, 1]
 
 
 ### Results
-MetricValueTest Accuracy97.49%Test Loss0.0796
+## Results
 
+| Metric | Value |
+|--------|-------|
+| Test Accuracy | 97.49% |
+| Test Loss | 0.0796 |
 ### Tech Stack
 
 Python, TensorFlow 2.x, Keras
